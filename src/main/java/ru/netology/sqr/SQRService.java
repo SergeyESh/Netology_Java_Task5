@@ -1,3 +1,4 @@
+package ru.netology.sqr;
 public class SQRService {
 
     public int calcCountSqr (int startRange, int endRange) {
